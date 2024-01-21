@@ -30,6 +30,8 @@ Links:
 
 Best teardown explanation: (use translate) https://forum.gamer.com.tw/C.php?bsn=60606&snA=2818
 
+Someone starting to document the cable pinout: https://www.youtube.com/watch?v=T5_sqlemvmI  (at 4:20 you can see his notes which give enough that I should be able to get the usb wired up following his pinout)
+
 Rift S mips chip: https://www.analogix.com/en/system/files/AA-004747-PB-1-ANX7533_0.pdf
 
 What I beleive is the 44pn connector on the mobo (waiting on mine to come in to measure) https://www.digikey.com/en/products/detail/molex/0559094472/3196929
