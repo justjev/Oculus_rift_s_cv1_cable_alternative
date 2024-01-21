@@ -38,6 +38,10 @@ What I beleive is the 44pn connector on the mobo (waiting on mine to come in to 
 
 Part to order that mates with that connector https://www.digikey.com/en/products/detail/molex/0513384473/3197116
 
+Displayport test bed pcb https://www.aliexpress.us/item/1005006099055034.html
+
+USB-C test bed pcb https://a.co/d/awRJzoF
+
 Schematic released by meta of the DK2 (which also uses the same architecure and can be used as a decent reference) https://github.com/facebookarchive/RiftDK2/blob/master/Headset/Electrical/Mainboard/Release/DK2_REV3.3_SCH.pdf
 
 Image of the DK2 mobo https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2017/10/rift-dk2-mainboard.png
