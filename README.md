@@ -3,7 +3,7 @@ This is an attempt at coming up with a affordable diy replacement for the Rift S
 
 #I have done zero editing on this, and it is basically a brain dump of my research from yesterday. Please ignore my egregious grammatical errors and run on sentences.
 #
-#There was a single reddit comment I am too lazy to find right now that said someone else was trying to document one of the oculus boards on github and meta sued him, this is a message to meta in case that is true: I have no intention of making money from this, I have no intention of releasing any industry secrets, I have no intention of hacking the oculus. This is purely a right to repair issue that is causing good quality vr headsets to become e-waste, which I hope to curb in some way from a purely ethical standpoint. 
+#There was a single reddit comment I am too lazy to find right now that said someone else was trying to document one of the oculus boards on github and meta sued him, this is a message to meta in case that is true: I have no intention of making money from this, I have no intention of releasing any industry secrets, I have no intention of hacking the oculus. This is purely a right to repair issue that is causing good quality vr headsets to become e-waste, which I hope to curb in some way from a purely ethical standpoint. (I am open to working for you guys though if you wanna hire away a hobbyist electrical wizard)
 
 This started as I saw you can purchase a rift s headset without a cable very cheaply on ebay
 
