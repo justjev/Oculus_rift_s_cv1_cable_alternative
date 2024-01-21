@@ -38,5 +38,13 @@ What I beleive is the 44pn connector on the mobo (waiting on mine to come in to 
 
 Part to order that mates with that connector https://www.digikey.com/en/products/detail/molex/0513384473/3197116
 
-What noone has documented is the chip that runs the usb host on the rift s, it looks like noone has taken pictures of whats under the sheilding on the mobo, which can be seen in this teardown: https://imgur.com/gallery/hl4CAqq
+Schematic released by meta of the DK2 (which also uses the same architecure and can be used as a decent reference) https://github.com/facebookarchive/RiftDK2/blob/master/Headset/Electrical/Mainboard/Release/DK2_REV3.3_SCH.pdf
+
+Image of the DK2 mobo https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2017/10/rift-dk2-mainboard.png
+
+Ifixit teardown of CV1 (step 10 has detailed mobo pics) https://www.ifixit.com/Teardown/Oculus+Rift+CV1+Teardown/60612
+
+Decent photos of rift s Mobo (pic 6 and 7) https://imgur.com/gallery/hl4CAqq
+
+What noone has documented is the chip that runs the usb host on the rift s, I am assuming it is under the sheilding that noone has removed for teardowns on the mobo.
 So when I get mine ill remove that sheilding and take hi def pics of whats hidin under there. 
