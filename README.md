@@ -26,7 +26,7 @@ I ordered a headset without the cable from ebay and will attempt that solution
 the cv1 does not have a connector between the occulink one and the mobo, it is soldered directly to the mobo. That will require removing the orignal connector, and soldering directly to the points on the mobo
 
 I will start with taking hi def photos of all parts of the rift s motherboard, and then document the pinout for the 44pin molex connector
-I intend to order some male portions of that connector(they cost about 2$) and custom fabricate a breakout pcb to get the wiring correct, afterwards, I will design a pcb that should just plug in, and either use a 44pin dsub port that will be mounted on the outside of the headset, or if possible a usb port and a displayport. I will release all the design files here.
+I intend to order some male portions of that connector(they cost about 2$) and custom fabricate a breakout pcb to get the wiring correct, afterwards, I will design a pcb that should just plug in, and either use a more common 44pin port(dsub, IDE, etc) that will be mounted on the outside of the headset, or if possible a usb port and a displayport. I will release all the design files here.
 
 Links: 
 
