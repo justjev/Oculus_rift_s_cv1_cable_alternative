@@ -54,3 +54,13 @@ Decent photos of rift s Mobo (pic 6 and 7) https://imgur.com/gallery/hl4CAqq
 
 What noone has documented is the chip that runs the usb host on the rift s, I am assuming it is under the sheilding that noone has removed for teardowns on the mobo.
 So when I get mine ill remove that sheilding and take hi def pics of whats hidin under there. 
+
+-------------------------------------------------------------------
+feb 13 24 did video teardown of the busted rift s
+opened the ef/heat sheild, pics and videos will be uploaded soon
+
+usb chip is cyusb3304-68ltxc
+https://www.infineon.com/cms/en/product/universal-serial-bus/ez-usb-hub-controllers/ez-usb-hx3-usb-5-gbps-hub-controller/cyusb3304-68ltxc/
+
+etrontech eSP7762U Y13 AD023kb09.001
+
