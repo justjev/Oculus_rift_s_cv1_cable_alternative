@@ -63,4 +63,15 @@ usb chip is cyusb3304-68ltxc
 https://www.infineon.com/cms/en/product/universal-serial-bus/ez-usb-hub-controllers/ez-usb-hx3-usb-5-gbps-hub-controller/cyusb3304-68ltxc/
 
 etrontech eSP7762U Y13 AD023kb09.001
+absolutely nothing about that chip on the internet that was useful, found the most similar model number that was on a random page with just random chipnames was esp770
+https://www.dzsc.com/E/2570/
 
+searching that lead me to this page where that chip is used as the camera usb chip in the oculus cv!
+https://electronics360.globalspec.com/article/6973/teardown-oculus-rift-virtual-reality-cv-hm-a 
+
+that mainly concludes the mysteries of what was hidden, I am curious why this one has no info anywhere, but ill keep digging.
+
+-------------- update, even though i absolutely destroyed the rf shield which damaged the mainboard and the headset was sold as not displaying video, it registered to my account and worked asolutely flawlessly with the official cable, so now its time to make that cable a thing of the past
+Possible to just throw a raspi in there and have an open vr OS?
+
+so the test points at the top of the board are interesting, going to try to compare to the dx1 schematics similar ports
